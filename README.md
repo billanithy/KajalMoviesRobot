@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="" alt="">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/PredatorHackerzZ/SamanthaMoviesRoBot">
+<a href="https://heroku.com/deploy?template=https://github.com/billanithy/KajalMoviesRobot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
